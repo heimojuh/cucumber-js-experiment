@@ -1,0 +1,16 @@
+{
+  "name": "cucumber-js-experiment",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber.js"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "webdriverjs": "~0.7.2",
+    "chai": "~1.6.0"
+  }
+}
